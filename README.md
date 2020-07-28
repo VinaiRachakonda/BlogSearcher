@@ -11,13 +11,13 @@ Some interesting contexual questions:
 * What is the meaning of life?
 
 # To run client
-`npm install`
-`npm start`
+- `npm install`
+- `npm start`
 
 # To run server
-`python3 -m venv env`
-`source env/bin/activate`
-`pip install -r requirements.txt`
-`python3 test.py`
+- `python3 -m venv env`
+- `source env/bin/activate`
+- `pip install -r requirements.txt`
+- `python3 test.py`
 
 You'll need to provide your own openai api key
